@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "string.h": "c",
+        "exception": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/user/Desktop/DBServer",
+            "binaryPath": "/home/user/Desktop/DBServer/main",
+            "binaryArgs": []
+        }
+    ]
+}
